@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: BSD-3-Clause
 # https://github.com/imageworks/OpenShadingLanguage
 
-cmake_minimum_required (VERSION 3.12)
+cmake_minimum_required (VERSION 3.10.1)
 project (OSL VERSION 1.11.10.0
          LANGUAGES CXX C
          HOMEPAGE_URL "https://github.com/imageworks/OpenShadingLanguage")
